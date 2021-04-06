@@ -10,7 +10,7 @@ Welcome to the git repository of the Action Cognition and Computation Course.
 
 | Day     | Take Away     | Exercises |
 | :------------- | :------------- | :----------------|
-| Day 1          | Data exploration  | basics of plotting, refreshing numpy |
+| Day 1          | Data exploration  | basics of plotting|
 | Day 2          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
 | Day 3          | Data cleaning | Eye-tracking data, Linear Models, Hypothesis testing,|
 | Day 4          | Simulating data | EEG data, Fourier transform, |
