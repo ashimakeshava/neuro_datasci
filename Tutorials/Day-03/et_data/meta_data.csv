@@ -1,0 +1,19 @@
+,0
+# Fix.,83834
+# Obs.,47
+Age,"22.6 (+/- ~2.3, 19-28)"
+Article,16.0
+Categories,"7,8,24,25,26,27"
+Disp. Size (degree),28x21
+Display,SM1100
+Display resolution (pixels),1280x960
+Eye Tracker,EL II
+ID,21
+Img. Pos. (pixel),0
+Img. size (pixel),1280x960
+PPD,45.6
+Sampling freq. (Hz),500 Hz
+Task,FV
+V. Dur.,6s
+V. dist. (cm) ,80
+Val. error (degrees),0.3
