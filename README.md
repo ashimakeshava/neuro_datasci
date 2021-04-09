@@ -14,3 +14,14 @@ Welcome to the git repository of the Action Cognition and Computation Course.
 | Day 2          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
 | Day 3          | Data cleaning | Eye-tracking data, Linear Models, Hypothesis testing,|
 | Day 4          | Simulating data | EEG data, Fourier transform, |
+
+
+This course is a work in progress. If you find any mistakes or have suggestions, please add them to the issue tracker.
+
+I plan to add video lectures in the notebooks soon, so it's accessible to everyone!
+
+I would like to thank Anne Lang, Franca Boße and Moritz Bammel for creating great content for the exercises.
+
+
+This project is licensed under
+ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
