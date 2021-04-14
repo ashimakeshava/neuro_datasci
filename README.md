@@ -10,10 +10,10 @@ Welcome to the git repository of the Action Cognition and Computation Course.
 
 | Day     | Take Away     | Exercises |
 | :------------- | :------------- | :----------------|
-| ![Day 1](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-01)          | Data exploration  | basics of plotting|
-| ![Day 2](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-02)          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
-| ![Day 3](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-03)        | Data cleaning | Eye-tracking data, outlier detection|
-| ![Day 4](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-04)          | Simulating data | EEG data, Fourier transform, |
+| [Day 1](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-01)          | Data exploration  | basics of plotting|
+| [Day 2](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-02)          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
+| [Day 3](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-03)        | Data cleaning | Eye-tracking data, outlier detection|
+| [Day 4](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-04)          | Simulating data | EEG data, Fourier transform, |
 
 
 This course is a work in progress. If you find any mistakes or have suggestions, please add them to the issue tracker.
@@ -24,7 +24,7 @@ I plan to add video lectures in the notebooks soon, so it's accessible to everyo
 
 
 
-I would like to thank Anne Lang, Franca Boße and Moritz Bammel for helping with the great content and Peter König for his guidance. Finally, the work here was funded in part by the ![Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition).
+I would like to thank Anne Lang, Franca Boße and Moritz Bammel for helping with the great content and Peter König for his guidance. Finally, the work here was funded in part by the [Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition).
 
 This project is licensed under
  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
