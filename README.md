@@ -24,7 +24,7 @@ I plan to add video lectures in the notebooks soon, so it's accessible to everyo
 
 
 
-I would like to thank Anne Lang, Franca Boße and Moritz Bammel for helping with the great content and Peter König for his guidance. Finally, the work here was funded in part by the [Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition).
+I would like to thank Anne Lang, Franca Boße and Moritz Bammel for helping with the great content and Peter König for his guidance. Finally, I'm grateful for the funding provided by the [Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition) to complete the project.
 
 This project is licensed under
  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
