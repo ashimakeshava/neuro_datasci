@@ -1,8 +1,9 @@
 # Action Cognition and Computation
+### Introduction to neuro-based data science
 
 _April 05-09, 2021_
 
-Welcome to the git repository of the Action Cognition and Computation Course.
+Welcome to the git repository of the Action Cognition and Computation Course
 
 **Objectives:** Introduce fundamental tools for data analysis for different sources of data e.g. behavioral, eye-tracking, EEG data. Main focus will be on data exploration through plotting, hypothesis generation, and hypothesis testing.
 
@@ -12,7 +13,7 @@ Welcome to the git repository of the Action Cognition and Computation Course.
 | :------------- | :------------- | :----------------|
 | [Day 1](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-01)          | Data exploration  | basics of plotting|
 | [Day 2](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-02)          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
-| [Day 3](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-03)        | Data cleaning | Eye-tracking data, outlier detection|
+| [Day 3](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-03)          | Data cleaning | Eye-tracking data, outlier detection|
 | [Day 4](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-04)          | Simulating data | EEG data, Fourier transform, |
 
 
