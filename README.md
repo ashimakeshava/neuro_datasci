@@ -1,7 +1,7 @@
 # Action Cognition and Computation
 ### Introduction to neuro-based data science
 
-November 07-11, 2022_
+_November 07-11, 2022_
 
 Welcome to the git repository of the Action Cognition and Computation Course
 
