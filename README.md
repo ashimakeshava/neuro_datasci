@@ -14,7 +14,7 @@ Welcome to the git repository of the Action Cognition and Computation Course
 | [Day 1](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-01)          | Data exploration  | basics of plotting|
 | [Day 2](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-02)          | Data wrangling | Behavioral data, Hypothesis testing with ANOVAs |
 | [Day 3](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-03)          | Data cleaning | Eye-tracking data, outlier detection|
-| [Day 4](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-04)          | Simulating data | EEG data, Fourier transform, |
+| [Day 4](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-04)          | Simulating data - I | EEG data, Fourier transform, |
 | [Day 5](https://github.com/ashimakeshava/ACC_SS2021/tree/main/Tutorials/Day-05)          | Simulating data - II | Parametric and Non-Parametric hypothesis testing|
 
 
